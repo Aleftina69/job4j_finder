@@ -1,0 +1,2 @@
+c:.idea\checkstyleidea-libs\readme.txt
+c:log.txt
